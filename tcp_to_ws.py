@@ -1,5 +1,5 @@
 """
-Example TCP-to-WebSocket tunnel.
+Example TCP-to-WebSocket tunnel
 
 Forwards data between a local TCP socket and a WebSocket.
 """
