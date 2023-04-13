@@ -1,4 +1,4 @@
-Example Python TCP-to-WebSocket tunnel.
+Example Python TCP-to-WebSocket tunnel
 
 Forwards data between a local TCP socket and a WebSocket.  Uses the asyncio and websockets libraries.
 
